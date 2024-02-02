@@ -2,7 +2,7 @@
 - 👀 I’m interested in Automation and Robotics Engineering. 
 - 🌱 I’m currently learning DevOps Engineering at AiCore. 
 - 📫 How to reach me:
-  
+  email: mikhaelarainroy@gmail.com
 
 <!---
 MikhaelaRoy/MikhaelaRoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
